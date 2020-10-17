@@ -175,3 +175,8 @@ footer h2{
 .right-alignment{
   text-align: right;
 }
+
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+} 
